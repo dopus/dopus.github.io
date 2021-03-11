@@ -9,7 +9,7 @@
 
     <link rel="icon" href="/imgs/favicon.ico" type="image/ico">
 
-    <title>Categories - Directory Opus新手指南</title>
+    <title>04.收藏夹 - Directory Opus新手指南</title>
 
     
     <link href="/css/nucleus.css?1615484880" rel="stylesheet">
@@ -34,7 +34,7 @@
     </style>
     
   </head>
-  <body class="" data-url="/categories/">
+  <body class="" data-url="/04.%E6%94%B6%E8%97%8F%E5%A4%B9/">
     <nav id="sidebar" class="">
 
 
@@ -232,8 +232,8 @@
   
     
     <li data-nav-id="/04.%E6%94%B6%E8%97%8F%E5%A4%B9/" title="04.收藏夹" class="dd-item
-        
-        
+        parent
+        active
         
         ">
       <a href="/04.%E6%94%B6%E8%97%8F%E5%A4%B9/">
@@ -785,14 +785,20 @@
                   <span class="links">
                  
                  
-                   Categories
+                   04.收藏夹
                  
                   </span>
                 </div>
                 
                     <div class="progress">
     <div class="wrapper">
-
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#添加到收藏夹">添加到收藏夹</a></li>
+    <li><a href="#编辑收藏夹">编辑收藏夹</a></li>
+    <li><a href="#一些命令">一些命令</a></li>
+  </ul>
+</nav>
     </div>
 </div>
 
@@ -808,9 +814,7 @@
           
             <h1>
               
-                category ::
-              
-              Categories
+              04.收藏夹
             </h1>
           
 
@@ -818,11 +822,30 @@
 
 
 
+	<p>收藏夹位于【导航栏】上，地址栏左侧的五角星上，单击可以显示一个收藏夹相关的下拉菜单，相关用途一目了然。</p>
+<h2 id="添加到收藏夹">添加到收藏夹</h2>
+<p><img src="img/Favorites_01.png" alt="Favorites_01"></p>
+<p>”名称“为显示在收藏夹列表中的名称，可以在名称中的任意字母前添加<code>&amp;</code>，以使在弹出收藏夹菜单时使用按键选择目标；譬如有一个收藏的项目名叫<code>Co&amp;de</code>，在弹出收藏夹菜单后可以按<code>d</code>打开这个文件夹。</p>
+<p>”新分支“用于创建子目录</p>
+<h2 id="编辑收藏夹">编辑收藏夹</h2>
+<p><img src="img/Favorites_02.png" alt="Favorites_02"></p>
+<p>在这里可以添加新的收藏文件夹、编辑（双击某个收藏的文件夹可以进入编辑状态，在编辑时可以<strong>添加快捷键</strong>）和删除既有项目、创建子目录（新分支）、调整收藏顺序。</p>
+<p>如果想在新增收藏项目后自动排序可以勾上底部“收藏夹新增项目时自动排序”复选框，也可以手动点击顶部最后一个按钮立即自动排序，排序规则按字母和数字的自然递增序列。</p>
+<blockquote>
+<p>在【编辑收藏夹】对话框的左侧列表中有一个【智能收藏】项，其中可以设置在某个文件夹下进行过多少次相应的操作后自动将其添加到智能收藏列表种，这是另一个独立的命令了，如果喜欢的话可以配合收藏夹使用（智能收藏夹默认是添加到收藏夹列表后边的），具体细节以后再讲。</p>
+</blockquote>
+<p>收藏夹也可以像浏览器的书签工具栏一样显示，把这个收藏夹按钮放到独立的工具栏上就行。</p>
+<p>收藏夹列表默认命令是<code>Favorites SHOWICONS USEQUALKEYS NOOPENINTABS</code></p>
+<p>这条命令的意思是：在收藏夹列表中显示图标，使用预定义的修饰键（按住<code>Ctrl</code>点击收藏的文件夹在对面窗口打开文件夹，按住<code>Shift</code>在新的列表窗中打开，按住<code>Alt</code>则在新标签页中打开），不在列表底部显示”在新标签中打开“项。</p>
+<h2 id="一些命令">一些命令</h2>
+<p>以下是一些可能用到的收藏夹相关命令，按个人使用习惯自取：</p>
+<p>收藏夹列表：显示图标，不在列表底部显示”在新标签中打开“项，其中的收藏项目在新标签打开并切换过去，如果已经打开有对应的书签则直接切换。</p>
+<p><code>Favorites SHOWICONS NOOPENINTABS NEWTAB=findexisting,tofront</code></p>
+<p>添加当前所在文件夹到收藏夹：以文件夹名为名，不弹出编辑对话框</p>
+<p><code>Favorites ADD=nameonly</code></p>
 
 
-<ul>
-	
-</ul>
+
 
 
 <footer class=" footline" >
@@ -959,6 +982,7 @@
             
                 
                     
+                    
                 
                 
 
@@ -974,6 +998,9 @@
             
             
                 
+                    
+                        
+                        
                     
                 
                 

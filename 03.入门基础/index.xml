@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>03.基本概念 on Directory Opus新手指南</title>
+    <link>https://dopus.net/03.%E5%85%A5%E9%97%A8%E5%9F%BA%E7%A1%80/</link>
+    <description>Recent content in 03.基本概念 on Directory Opus新手指南</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 11 Mar 2021 20:38:25 +0800</lastBuildDate><atom:link href="https://dopus.net/03.%E5%85%A5%E9%97%A8%E5%9F%BA%E7%A1%80/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1.基本概念</title>
+      <link>https://dopus.net/03.%E5%85%A5%E9%97%A8%E5%9F%BA%E7%A1%80/1.%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</link>
+      <pubDate>Fri, 12 Mar 2021 01:33:59 +0800</pubDate>
+      
+      <guid>https://dopus.net/03.%E5%85%A5%E9%97%A8%E5%9F%BA%E7%A1%80/1.%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</guid>
+      <description>基本概念 为了后续交流更顺畅，先来认识下Directory Opus中的几个基本概念和对几个常规操作的简化表达：
+Directory Opus：偶尔也简写作DO、DOpus、Opus。
+列表窗：整个DO窗口。DO允许打开多个窗口（通常来讲不建议这么用），并以不同的状态存在（来源/目标/空闲)。
+窗格：窗格有很多类型：文件夹树窗格、查看器窗格、元数据窗格，甚至下边的文件显示栏也属于窗格的一种，为了简化表达，通常都省略后边的窗格二字。
+文件显示栏：显示文件夹和文件的地方。在双栏显示的时候当前获得键盘鼠标输入焦点的为来源，另一个即为目标，偶尔也把目标称作对面窗口。
+文件夹标签：也即显示不同文件夹的Tab。所有第三方文件管理器的标配之一，另一个是收藏夹功能，补充Windows自带资源管理器不足的地方，基本算是我折腾DO的原动力。
+&amp;mdash;未完待续&amp;mdash;</description>
+    </item>
+    
+    <item>
+      <title>2.基本操作</title>
+      <link>https://dopus.net/03.%E5%85%A5%E9%97%A8%E5%9F%BA%E7%A1%80/2.%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/</link>
+      <pubDate>Fri, 12 Mar 2021 01:34:46 +0800</pubDate>
+      
+      <guid>https://dopus.net/03.%E5%85%A5%E9%97%A8%E5%9F%BA%E7%A1%80/2.%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/</guid>
+      <description>基本操作 </description>
+    </item>
+    
+    <item>
+      <title>3.常规配置</title>
+      <link>https://dopus.net/03.%E5%85%A5%E9%97%A8%E5%9F%BA%E7%A1%80/3.%E5%B8%B8%E7%94%A8%E9%85%8D%E7%BD%AE/</link>
+      <pubDate>Fri, 12 Mar 2021 01:34:15 +0800</pubDate>
+      
+      <guid>https://dopus.net/03.%E5%85%A5%E9%97%A8%E5%9F%BA%E7%A1%80/3.%E5%B8%B8%E7%94%A8%E9%85%8D%E7%BD%AE/</guid>
+      <description>常规配置 </description>
+    </item>
+    
+  </channel>
+</rss>
