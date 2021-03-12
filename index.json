@@ -8,7 +8,7 @@
 },
 {
 	"uri": "https://dopus.net/17.%E9%87%8D%E5%91%BD%E5%90%8D/1.%E5%B8%B8%E8%A7%84%E9%87%8D%E5%91%BD%E5%90%8D/",
-	"title": "常规重命名",
+	"title": "1.常规重命名",
 	"tags": [],
 	"description": "",
 	"content": "常规单文件重命名 默认F2进入重命名状态，并自动选中文件名部分，这与Windows下的状态是一致的；此外，在进入重命名状态后，DOpus还支持几个快捷键：\n继续F2，选区部分将在文件名、扩展名、整个文件名之间循环；\nCtrl+F或Ctrl+N：选中文件名(FileName)；\nCtrl+E：选中扩展名(Extension)；\nCtrl+A：选中整个文件名(All)；\nCtrl+U：文件名中的英文字母都改为大写(Upper-Case)；\nCtrl+L：文件名中的英文字母都改为小写(Lower-Case)；\nCtrl+W：文件名中第一个单词的首字母改为大写(Word)；\nCtrl+P：文件名中每一个单词的首字母改为大写；\n↓/Tab：确认修改并进入重命名后一个文件的状态；\n↑/Shift+Tab：确认修改并进入重命名前一个文件的状态；\nCtrl/Shift+↑/↓：调用重命名的历史；\nEsc：退出重命名状态。\n"
@@ -88,63 +88,63 @@
 	"title": "06.文件夹树",
 	"tags": [],
 	"description": "",
-	"content": "第 X 章 章标题 "
+	"content": "第 6 章 章标题 "
 },
 {
 	"uri": "https://dopus.net/07.%E6%8C%89%E9%92%AE/",
 	"title": "07.按钮",
 	"tags": [],
 	"description": "",
-	"content": "第 X 章 章标题 "
+	"content": "第 7 章 章标题 "
 },
 {
 	"uri": "https://dopus.net/08.%E5%BF%AB%E6%8D%B7%E9%94%AE/",
 	"title": "08.快捷键",
 	"tags": [],
 	"description": "",
-	"content": "第 X 章 章标题 "
+	"content": "第 8 章 章标题 "
 },
 {
 	"uri": "https://dopus.net/09.%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95/",
-	"title": "9.右键菜单",
+	"title": "09.右键菜单",
 	"tags": [],
 	"description": "",
-	"content": "第 X 章 章标题 "
+	"content": "第 9 章 章标题 "
 },
 {
 	"uri": "https://dopus.net/10.%E5%91%BD%E4%BB%A4/",
 	"title": "10.命令",
 	"tags": [],
 	"description": "",
-	"content": "第 X 章 章标题 "
+	"content": "第 10 章 章标题 "
 },
 {
 	"uri": "https://dopus.net/11.%E5%B7%A5%E5%85%B7%E6%A0%8F/",
 	"title": "11.工具栏",
 	"tags": [],
 	"description": "",
-	"content": "第 X 章 章标题 "
+	"content": "第 11 章 章标题 "
 },
 {
 	"uri": "https://dopus.net/12.%E6%96%87%E4%BB%B6%E7%B1%BB%E5%9E%8B/",
 	"title": "12.文件类型",
 	"tags": [],
 	"description": "",
-	"content": "第 X 章 章标题 "
+	"content": "第 12 章 章标题 "
 },
 {
 	"uri": "https://dopus.net/13.%E6%96%87%E4%BB%B6%E5%A4%B9%E6%A0%BC%E5%BC%8F/",
 	"title": "13.文件夹格式",
 	"tags": [],
 	"description": "",
-	"content": "第 X 章 章标题 "
+	"content": "第 13 章 章标题 "
 },
 {
 	"uri": "https://dopus.net/14.%E6%96%87%E4%BB%B6%E5%A4%B9%E5%88%AB%E5%90%8D/",
 	"title": "14.文件夹别名",
 	"tags": [],
 	"description": "",
-	"content": "第 X 章 章标题 "
+	"content": "第 14 章 章标题 "
 },
 {
 	"uri": "https://dopus.net/15.%E6%A0%87%E8%AE%B0/",
@@ -158,35 +158,35 @@
 	"title": "16.过滤器",
 	"tags": [],
 	"description": "",
-	"content": "第 X 章 章标题 "
+	"content": "第 16 章 章标题 "
 },
 {
 	"uri": "https://dopus.net/17.%E9%87%8D%E5%91%BD%E5%90%8D/",
 	"title": "17.重命名",
 	"tags": [],
 	"description": "",
-	"content": "第 X 章 章标题 "
+	"content": "第 17 章 重命名 "
 },
 {
 	"uri": "https://dopus.net/18.%E9%A2%9C%E8%89%B2%E5%AD%97%E4%BD%93/",
 	"title": "18.颜色字体",
 	"tags": [],
 	"description": "",
-	"content": "第 X 章 章标题 "
+	"content": "第 18 章 章标题 "
 },
 {
 	"uri": "https://dopus.net/19.%E5%9B%BE%E6%A0%87/",
 	"title": "19.图标",
 	"tags": [],
 	"description": "",
-	"content": "第 X 章 章标题 "
+	"content": "第 19 章 章标题 "
 },
 {
 	"uri": "https://dopus.net/20.%E8%84%9A%E6%9C%AC/",
 	"title": "20.脚本",
 	"tags": [],
 	"description": "",
-	"content": "第 X 章 章标题 "
+	"content": "第 20 章 章标题 "
 },
 {
 	"uri": "https://dopus.net/x.%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99/",
@@ -200,7 +200,7 @@
 	"title": "",
 	"tags": [],
 	"description": "",
-	"content": "Directory Opus交流QQ群：313295509\n官方网站 DOpus官网 | DOpus官网论坛\n图标 字体 大腿资源    作者 简介     混沌GitHub DOpus脚本   球球GitHub     "
+	"content": "Directory Opus交流QQ群：313295509\n官方网站 DOpus官网 | DOpus官网论坛\n图标 字体 大腿资源    作者 简介     混沌GitHub DOpus脚本   球球GitHub DOpus脚本    "
 },
 {
 	"uri": "https://dopus.net/categories/",
